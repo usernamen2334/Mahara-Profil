@@ -1,6 +1,9 @@
 ## LB 210: AWS
 https://portfolio.bbbaden.ch/view/view.php?t=62a211cbcd1447d36901
 
+## Ila3_120: Blackjack
+https://portfolio.bbbaden.ch/view/view.php?t=1f320b05202f1dfa793b
+
 ## LA 1304: Zahlensystem Konverter 
 https://portfolio.bbbaden.ch/view/view.php?t=6a796ef8b8e2e422cd2c
 
